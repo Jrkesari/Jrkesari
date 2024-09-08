@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factAbout Me:<br>I'm Jayesh Ranjan Kesari, a web developer and data science enthusiast from Bennett University.<br><br>I'm Currently Working On:<br><br>React app with interactive 3D components.<br>Analyzing airline reviews from Skytrax.<br>I'm Looking to Collaborate On:<br><br>Data science projects and machine learning.<br>Innovative web development.<br>I'm Looking for Help With:<br><br>Data visualization in Power BI.<br>Integrating new libraries and technologies.<br>I'm Currently Learning:<br><br>Advanced Framer Motion animations.<br>Optimizing machine learning models.<br>Ask Me About:<br><br>Python, Java, and data science.<br>Interactive web design.
+
+🔭 **I’m currently working on:**  
+React app with interactive 3D components and doing Data research and analysis
+
+👯 **I’m looking to collaborate on:**  
+Data science projects and machine learning, as well as innovative web development.
+
+🤝 **I’m looking for help with:**  
+Data visualization in Power BI and integrating new libraries and technologies.
+
+🌱 **I’m currently learning:**  
+Advanced Framer Motion animations and optimizing machine learning models.
+
+💬 **Ask me about:**  
+Python, Java, data science, and interactive web design.
+
+⚡ **Fun fact:**  
+I'm Jayesh Ranjan Kesari, a web developer and data science enthusiast from Bennett University.
+
 
 
 ## 🌐 Socials:
